@@ -820,6 +820,8 @@ span{
 @media screen and (max-width: 371px) {
     .home{
         background-size: 315px 330px;
+        background-position: center;
+
     
         }
     .home{
@@ -830,6 +832,8 @@ span{
         align-items: center;
         flex-direction: column;
         text-align: center;
+        margin-top: 600px;
+
     }
 
     .home-content h1{
