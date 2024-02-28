@@ -822,26 +822,28 @@ span{
         background-size: 315px 330px;
         background-position: center;
 
+        
     
         }
+    
     .home{
        justify-content: center;
     }
+   
     .home-content {
         display: flex;
         align-items: center;
         flex-direction: column;
         text-align: center;
         margin-top: 600px;
-
     }
-
+     
     .home-content h1{
         font-size: 2rem;
+        
     }
     .home-sci{
-        bottom: 29rem;
-        
+        bottom: 30rem;
     }
 }
 
